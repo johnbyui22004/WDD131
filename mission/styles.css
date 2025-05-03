@@ -36,3 +36,13 @@ footer img{
     height: 150px;
     margin: 0 10px;
 }
+
+body.dark {
+    background-color: #333;
+    color: white;
+}
+
+body.light {
+    background-color: white;
+    color: black;
+}
