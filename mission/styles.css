@@ -1,4 +1,4 @@
-.h2{
+h2{
     color: rgb(43, 99, 162);
 }
 header{
@@ -17,6 +17,8 @@ header{
 
 footer{
     text-align: center;
+    padding: 20px;
+
 }
 
 li {
@@ -46,3 +48,4 @@ body.light {
     background-color: white;
     color: black;
 }
+
